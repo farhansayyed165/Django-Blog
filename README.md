@@ -1,2 +1,2 @@
 # Django-Blog
-A blog website made when I was learning Django
+This website is a side gig, I haven't completed it yet
